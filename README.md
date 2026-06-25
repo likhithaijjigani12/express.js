@@ -1,2 +1,2 @@
 # express.js
-Developed a basic web server using Node.js and Express.js that handles HTTP GET and POST requests, enabling JSON-based client-server communication and demonstrating fundamental backend web development concepts.
+Designed and implemented modular routing in an **Express.js** application by organizing related routes into separate router modules, improving code maintainability and scalability. The project demonstrates the use of route parameters, HTTP status codes, and RESTful endpoints for efficient request handling and structured backend development in **Node.js**. It provides a clear understanding of building scalable and well-organized server-side applications.
